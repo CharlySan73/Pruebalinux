@@ -1,0 +1,41 @@
+Introducción:
+Linux es un sistema operativo de código abierto basado en Unix, desarrollado originalmente por Linus Torvalds en 1991. Desde su creación, Linux ha evolucionado para convertirse en una de las plataformas más utilizadas en el mundo, tanto en entornos personales como empresariales y de servidores.
+
+Origen y Desarrollo:
+Linus Torvalds, un estudiante finlandés, inició el desarrollo de Linux como un proyecto personal para crear un sistema operativo libre y gratuito. Inspirado por Minix, un sistema operativo educativo, Torvalds lanzó la primera versión del kernel de Linux en 1991. El proyecto rápidamente atrajo la atención de desarrolladores de todo el mundo, quienes contribuyeron a su crecimiento y mejora.
+
+Características Principales:
+
+Código Abierto: Linux es distribuido bajo la licencia GPL (General Public License), lo que permite a los usuarios modificar y distribuir el código libremente.
+
+Multiusuario y Multitarea: Linux permite que múltiples usuarios ejecuten múltiples tareas simultáneamente.
+
+Estabilidad y Seguridad: Linux es conocido por su estabilidad y seguridad, lo que lo hace ideal para servidores y entornos críticos.
+
+Personalización: Existen numerosas distribuciones (distros) de Linux, como Ubuntu, Fedora, Debian y CentOS, cada una con características y enfoques diferentes.
+
+Compatibilidad: Linux es compatible con una amplia gama de hardware, desde dispositivos móviles hasta supercomputadoras.
+
+Usos y Aplicaciones:
+
+Servidores: Linux es ampliamente utilizado en servidores web, bases de datos y aplicaciones en la nube debido a su estabilidad y seguridad.
+
+Desarrollo de Software: Muchos desarrolladores prefieren Linux para programar debido a su flexibilidad y herramientas de desarrollo integradas.
+
+Dispositivos Móviles: Android, el sistema operativo móvil más popular, está basado en el kernel de Linux.
+
+Supercomputadoras: La mayoría de las supercomputadoras del mundo ejecutan Linux debido a su capacidad para manejar grandes cargas de trabajo.
+
+Comunidad y Soporte:
+La comunidad de Linux es una de las más activas y colaborativas en el mundo del software. Existen numerosos foros, documentación y recursos en línea que ayudan a los usuarios a resolver problemas y aprender más sobre el sistema.
+
+Conclusión:
+Linux ha revolucionado el mundo de la tecnología al ofrecer una alternativa libre y de alta calidad a los sistemas operativos propietarios. Su flexibilidad, seguridad y robustez lo han convertido en una opción preferida para una amplia gama de aplicaciones, desde servidores empresariales hasta dispositivos personales. Con una comunidad global de desarrolladores y usuarios, Linux continúa creciendo y evolucionando, manteniéndose a la vanguardia de la innovación tecnológica.
+
+Referencias:
+
+Torvalds, L., & Diamond, D. (2001). "Just for Fun: The Story of an Accidental Revolutionary".
+
+"The Linux Kernel Archives". https://www.kernel.org/
+
+"DistroWatch". https://distrowatch.com/
